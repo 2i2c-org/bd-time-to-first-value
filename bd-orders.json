@@ -30,5 +30,53 @@
       "createdAt": "2025-09-04T18:00:49Z",
       "state": "open"
     }
+  },
+  "518260336325": {
+    "orderId": "518260336325",
+    "orderName": "Ocean Hackweek in Spanish 2025 - Workshop hub order",
+    "createdAt": "2025-08-05T05:00:00Z",
+    "deals": [
+      {
+        "id": "86221243121",
+        "amount": "5000",
+        "dealname": "Ocean Hackweek in Spanish 2025",
+        "dealstage": "closedwon",
+        "closedate": "2025-08-05T19:17:00.142Z",
+        "createdAt": "2025-05-25T20:37:00Z",
+        "lineItems": [
+          {
+            "id": "123471932123",
+            "name": "Advanced Tier Membership",
+            "amount": "5000.00",
+            "hs_product_id": "72916983489",
+            "createdAt": "2025-05-28T16:16:52.077Z",
+            "archived": false
+          },
+          {
+            "id": "123471932124",
+            "name": "Passed Through Cloud Billing",
+            "amount": "0.00",
+            "hs_product_id": "74428209901",
+            "createdAt": "2025-05-28T16:16:52.078Z",
+            "archived": false
+          },
+          {
+            "id": "123471932125",
+            "name": "Discounted Usage Pricing",
+            "amount": "0.00",
+            "hs_product_id": "72916983498",
+            "createdAt": "2025-05-28T16:28:21.313Z",
+            "archived": false
+          }
+        ]
+      }
+    ],
+    "issue": {
+      "issueNumber": 41,
+      "issueURL": "https://github.com/2i2c-org/bd-time-to-first-value/issues/41",
+      "issueTitle": "New Order request: Ocean Hackweek in Spanish 2025 - Workshop hub order",
+      "createdAt": "2025-09-12T14:30:22Z",
+      "state": "open"
+    }
   }
 }
