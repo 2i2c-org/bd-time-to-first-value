@@ -30,5 +30,53 @@
       "createdAt": "2025-09-29T15:00:51Z",
       "state": "open"
     }
+  },
+  "564753106619": {
+    "orderId": "564753106619",
+    "orderName": "Nucleus Hub for bnext.bio",
+    "createdAt": "2025-10-06T07:00:00Z",
+    "deals": [
+      {
+        "id": "107252426460",
+        "amount": "15010",
+        "dealname": "bnext.bio 2025",
+        "dealstage": "contractsent",
+        "closedate": "2025-06-24T13:44:09.882Z",
+        "createdAt": "2024-10-10T04:00:00Z",
+        "lineItems": [
+          {
+            "id": "175732686538",
+            "name": "Advanced Tier Membership",
+            "amount": "15000.00",
+            "hs_product_id": "72916983489",
+            "createdAt": "2025-10-07T18:29:25.415Z",
+            "archived": false
+          },
+          {
+            "id": "175732686539",
+            "name": "Passed Through Cloud Billing",
+            "amount": "0.00",
+            "hs_product_id": "74428209901",
+            "createdAt": "2025-10-07T18:29:25.416Z",
+            "archived": false
+          },
+          {
+            "id": "175732686540",
+            "name": "Discounted Usage Pricing",
+            "amount": "10.00",
+            "hs_product_id": "72916983498",
+            "createdAt": "2025-10-07T18:29:25.416Z",
+            "archived": false
+          }
+        ]
+      }
+    ],
+    "issue": {
+      "issueNumber": 60,
+      "issueURL": "https://github.com/2i2c-org/bd-time-to-first-value/issues/60",
+      "issueTitle": "New Order request: Nucleus Hub for bnext.bio",
+      "createdAt": "2025-10-07T18:30:45Z",
+      "state": "open"
+    }
   }
 }
