@@ -78,5 +78,61 @@
       "createdAt": "2025-10-07T18:30:45Z",
       "state": "open"
     }
+  },
+  "566075964119": {
+    "orderId": "566075964119",
+    "orderName": "AIMATX Research Hub Order",
+    "createdAt": "2025-10-08T07:00:00Z",
+    "deals": [
+      {
+        "id": "160773736149",
+        "amount": "25000",
+        "dealname": "AIMATX 2025",
+        "dealstage": "closedwon",
+        "closedate": "2025-10-08T18:00:07.194Z",
+        "createdAt": "2025-09-15T11:24:13.647Z",
+        "lineItems": [
+          {
+            "id": "156077008609",
+            "name": "Consultation Project Unit",
+            "amount": "10000.00",
+            "hs_product_id": "147818144470",
+            "createdAt": "2025-09-15T11:24:14.213Z",
+            "archived": false
+          },
+          {
+            "id": "156077008610",
+            "name": "Advanced Tier Membership",
+            "amount": "15000.00",
+            "hs_product_id": "72916983489",
+            "createdAt": "2025-09-15T11:24:14.213Z",
+            "archived": false
+          },
+          {
+            "id": "176661996248",
+            "name": "Passed Through Cloud Billing",
+            "amount": "0.00",
+            "hs_product_id": "74428209901",
+            "createdAt": "2025-10-08T18:10:52.883Z",
+            "archived": false
+          },
+          {
+            "id": "176661996249",
+            "name": "Discounted Usage Pricing",
+            "amount": "0.00",
+            "hs_product_id": "72916983498",
+            "createdAt": "2025-10-08T18:10:52.883Z",
+            "archived": false
+          }
+        ]
+      }
+    ],
+    "issue": {
+      "issueNumber": 61,
+      "issueURL": "https://github.com/2i2c-org/bd-time-to-first-value/issues/61",
+      "issueTitle": "New Order request: AIMATX Research Hub Order",
+      "createdAt": "2025-10-08T22:30:44Z",
+      "state": "open"
+    }
   }
 }
